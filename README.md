@@ -4,4 +4,3 @@ Analyzing A/B Test Results using Probability, A/B Test, and Regression in Python
   - Probability 
   - A/B Testing 
   - Regression
-  - Python and Jupyter Notebook
