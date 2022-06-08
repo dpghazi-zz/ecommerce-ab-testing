@@ -1,7 +1,6 @@
 # ECommerce A/B Testing
+# [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
 For this project, I will be working to understand the results of an A/B test run by an e-commerce website if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.   
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
 
 This project includes the following contents:
 * Introduction
