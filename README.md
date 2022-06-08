@@ -37,5 +37,4 @@ This project is using Python3. The packages are used in this project including N
 * Logistic Regression
 
 ### Report
-The reports are generated to .ipynb format
-* [Analyze_ab_test_results_notebook_jc.html](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
+* [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ecommerce-ab-testing.html)
