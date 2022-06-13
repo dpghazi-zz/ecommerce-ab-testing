@@ -8,7 +8,7 @@ This project includes the following contents:
 * Introduction
 * Part I: Probability
 * Part II: A/B test
-* Part III: Regression
+* Part III: Logistic Regression
 * Conclusion
 
 Before Part I: Probability, I will perform data cleaning such as checking missing data, discrepancies between the columns etc.
