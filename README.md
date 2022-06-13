@@ -14,7 +14,7 @@ This project includes the following contents:
 Before Part I: Probability, I will perform data cleaning such as checking missing data, discrepancies between the columns etc.
 
 ### Language and Package
-This project is using Python3. The packages are used in this project including Numpy, Panda, random, matplotlib.pyplot, scipy.stats, and  statsmodels.api.
+This project is using Python. The packages are used in this project including Numpy, Panda, random, matplotlib.pyplot, scipy.stats, and  statsmodels.api.
 
 ### Metadata of variables
 1. [ab_data.csv](https://github.com/dpghazi/ECommerce-AB-Testing/blob/main/ab_data.csv)  
