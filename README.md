@@ -7,7 +7,7 @@ For this project, I will be working to understand the results of an A/B test run
 This project includes the following contents:
 * Introduction
 * Part I: Probability
-* Part II: A/B test
+* Part II: A/B Test
 * Part III: Logistic Regression
 * Conclusion
 
