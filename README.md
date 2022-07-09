@@ -40,4 +40,4 @@ This project is using Python. The packages are used in this project including Nu
 * Logistic Regression
 
 ### Report
-* [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
+* [Notebook](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
