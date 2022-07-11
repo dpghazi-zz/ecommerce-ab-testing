@@ -39,5 +39,5 @@ This project is using Python. The packages are used in this project including Nu
 * Two-Proportion Z Test
 * Logistic Regression
 
-### Report
+### Featured Notebook
 * [Notebook](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
