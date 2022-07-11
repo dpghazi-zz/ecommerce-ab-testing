@@ -13,7 +13,7 @@ A company has developed a new web page in order to try and increase the number o
 
 Before Part I: Probability, I will perform data cleaning such as checking missing data, discrepancies between the columns etc.
 
-### Language and Package
+### Language & Package
 This project is using Python. The packages are used in this project including Numpy, Panda, random, matplotlib.pyplot, scipy.stats, and  statsmodels.api.
 
 ### Metadata of variables
