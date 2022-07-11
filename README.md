@@ -40,4 +40,4 @@ This project is using Python. The packages are used in this project including Nu
 * Logistic Regression
 
 ### Featured Notebook
-* [Notebook](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
+* [ECommerce A/B Testing](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
