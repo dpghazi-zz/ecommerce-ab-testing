@@ -36,7 +36,7 @@ This project is using Python. The packages are used in this project including Nu
 
 ### Methodology
 * A/B Test
-* Two-Proportion z Test
+* Two-Proportion Z Test
 * Logistic Regression
 
 ### Report
