@@ -1,5 +1,4 @@
 # ECommerce A/B Testing
-
 ## Project Description
 A company has developed a new web page in order to increase the number of users who "convert" (the number of users who decide to pay for the company's product). For this project, I performed A/B tests to analyze the changes (conversion rate of the shoppers) through statical conclusions; implement the new page, keep the old page, or perhaps run the experiment longer to make their decision. 
 
