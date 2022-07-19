@@ -9,7 +9,7 @@ A company has developed a new web page in order to increase the number of users 
 * Logistic Regression
 
 ### Language & Tools
-Python (Pandas, Numpy, Random, Matplotlib PyPlot, Scipy, Statsmodels API)
+Python (Pandas, Numpy, Random, PyPlot, Scipy, Statsmodels)
 
 ### Metadata of Variables
 1. [ab_data.csv](https://github.com/dpghazi/ECommerce-AB-Testing/blob/main/ab_data.csv)  
