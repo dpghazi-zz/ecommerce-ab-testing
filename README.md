@@ -30,4 +30,4 @@ Python (Pandas, Numpy, Random, Matplotlib PyPlot, Scipy, Statsmodels API)
 | country       | string: US, CA, UK |
 
 ### Featured Notebook
-* [ECommerce A/B Testing](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
+[ECommerce A/B Testing](https://dpghazi.github.io/projects/ecommerce-ab-testing.html)
