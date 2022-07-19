@@ -8,7 +8,7 @@ A company has developed a new web page in order to increase the number of users 
 * A/B Test
 * Logistic Regression
 
-### Language & Package
+### Language & Tools
 Python (Pandas, Numpy, Random, Matplotlib PyPlot, Scipy, Statsmodels API)
 
 ### Metadata of Variables
