@@ -4,8 +4,8 @@ A company has developed a new web page in order to increase the number of users 
 
 ### Overview
 * Preprocessing 
-* Two-Proportion Z Test
-* A/B Test
+* Two-Proportion Z-Test
+* A/B Testing
 * Logistic Regression
 
 ### Language & Tools
